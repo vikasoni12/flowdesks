@@ -1,1 +1,17 @@
-<Solution />
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="E:/D DRIVE/VIRAM/flowdesks/Flowdesks/Flowdesks.Api/Flowdesks.Api.csproj" Id="2f363901-c42b-48f6-89f1-cfbea77db1a8" />
+  </Folder>
+  <Folder Name="/Core/">
+    <Project Path="E:/D DRIVE/VIRAM/flowdesks/Flowdesks/Flowdesks.Application/Flowdesks.Application.csproj" Id="3dee426c-95a4-4240-9866-f5fa971cc3d7" />
+    <Project Path="E:/D DRIVE/VIRAM/flowdesks/Flowdesks/Flowdesks.Domain/Flowdesks.Domain.csproj" Id="e57f48a0-3a4a-49c2-b58d-69337333bd62" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="E:/D DRIVE/VIRAM/flowdesks/Flowdesks/Flowdesks.Persistence/Flowdesks.Persistence.csproj" Id="78efd963-ca80-45c7-a3f2-d13484600697" />
+    <Project Path="Flowdesks.Infrastructure/Flowdesks.Infrastructure.csproj" Id="cd2fccc5-7d4d-495f-99d1-6d6fb22692be" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="E:/D DRIVE/VIRAM/flowdesks/Flowdesks/Flowdesks.Shared/Flowdesks.Shared.csproj" Id="ee87cc4c-aef3-4031-81b7-be863904790a" />
+  </Folder>
+  <Folder Name="/UI/" />
+</Solution>
